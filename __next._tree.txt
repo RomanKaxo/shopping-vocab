@@ -1,0 +1,8 @@
+:HL["/shopping-vocab/_next/static/chunks/2adsbichj6q1x.css","style"]
+:HL["/shopping-vocab/_next/static/media/125b6750c58ce347-s.p.1icgra-w5i50b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopping-vocab/_next/static/media/53897e768d329f66-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopping-vocab/_next/static/media/a79089bce1b24273-s.p.44dak0sams9f0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopping-vocab/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/shopping-vocab/_next/static/media/d902bc2bfdd0a4cb-s.p.1g73gv09-xcb6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"BAV-XdRLiZUYoixvTXn1f","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
